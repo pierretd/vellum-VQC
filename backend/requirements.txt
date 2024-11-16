@@ -1,0 +1,5 @@
+camel-ai
+fastapi
+python-dotenv
+uvicorn
+python-multipart 
